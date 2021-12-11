@@ -1,7 +1,7 @@
 ### Olá, eu sou a Eriani Moreira...
 
 - 🔭 Hoje estou trabalhando em projetos na UFES
-- 🌱 Estudando JavaScript e Python
+- 🌱 Estudando JavaScript e PHP
 - 📫 Contate-me no e-mail: moreiraeriani@gmail.com
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidades: amo filmes, livros, séries e jogos.
